@@ -1,17 +1,23 @@
 <h1 align="center"><b>Hi , I'm David </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## About me
-I'm a programming student, and most of what I know I've learned on my own, since I really enjoy studying and researching independently. I'm a creative person, focused on problem-solving and constantly learning new things. I like working as part of a team and contributing ideas to build useful and innovative solutions.
+### ⚡ Acerca de mí
 
-* 🌱 Currently learning...
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXU1aWlldjk5OGo3ZTFhNDh1aXh5ZHh5N2hsaG5reGFtYWRkMW43YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="200">
+
+Soy estudiante de programación y la mayor parte de lo que sé lo he aprendido por mi cuenta, ya que disfruto mucho estudiar e investigar de forma independiente. Soy una persona creativa, enfocada en resolver problemas y en aprender constantemente cosas nuevas. Me gusta trabajar en equipo y aportar ideas para construir soluciones útiles e innovadoras.
+
+* 🌱 Actualmente estoy aprendiendo...
    * FastAPI
    * React
-* 👯 Looking forward to collaborating on open source projects.
-* ✔ Ask me anything, I'll be happy to help.
-* Outside of tech, I love listening to music.
-* 🎯 My goal is to become a Full Stack developer.
+* 👯 Tengo muchas ganas de colaborar en proyectos de código abierto.
+* ✔ Pregúntame lo que quieras, estaré encantado de ayudarte.
+* Fuera del ámbito tecnológico, me encanta escuchar música.
+* 🎯 Mi meta es convertirme en desarrollador Full Stack.
+
+<br clear="right"/>
 
 <h2>My skills include</h2>
+...
 
 <h3>Languages</h3>
 <span>
