@@ -17,7 +17,6 @@ Soy estudiante de programación y la mayor parte de lo que sé lo he aprendido p
 <br clear="right"/>
 
 <h2>My skills include</h2>
-...
 
 <h3>Languages</h3>
 <span>
