@@ -43,8 +43,8 @@ I'm a Software Analysis and Development student, and most of what I know I've le
 
 <h3>📫 How to reach me</h3>
 <span>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href=""><img src=""></a>
+  <a href=""><img src=""></a>
 </span>
 
 <h3>📊 My GitHub Stats</h3>
