@@ -1,18 +1,19 @@
 <h1 align="center"><b>Hi , I'm David </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### ⚡ Acerca de mí
-
+### ⚡ About me
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXU1aWlldjk5OGo3ZTFhNDh1aXh5ZHh5N2hsaG5reGFtYWRkMW43YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="200">
 
-Soy estudiante de programación y la mayor parte de lo que sé lo he aprendido por mi cuenta, ya que disfruto mucho estudiar e investigar de forma independiente. Soy una persona creativa, enfocada en resolver problemas y en aprender constantemente cosas nuevas. Me gusta trabajar en equipo y aportar ideas para construir soluciones útiles e innovadoras.
+I'm a Software Analysis and Development student, and most of what I know I've learned on my own, since I really enjoy studying and researching independently. I'm a creative person, focused on problem-solving and constantly learning new things. I like working as part of a team and contributing ideas to build useful and innovative solutions.
 
-* 🌱 Actualmente estoy aprendiendo...
+* 🌱 Currently learning...
    * FastAPI
    * React
-* 👯 Tengo muchas ganas de colaborar en proyectos de código abierto.
-* ✔ Pregúntame lo que quieras, estaré encantado de ayudarte.
-* Fuera del ámbito tecnológico, me encanta escuchar música.
-* 🎯 Mi meta es convertirme en desarrollador Full Stack.
+* 👯 Looking forward to collaborating on open source projects.
+* ✔ Ask me anything, I'll be happy to help.
+* Outside of tech, I love listening to music.
+* 🎯 My goal is to become a Full Stack developer.
+
+<br clear="right"/>
 
 <h2>My skills include</h2>
 
@@ -42,8 +43,8 @@ Soy estudiante de programación y la mayor parte de lo que sé lo he aprendido p
 
 <h3>📫 How to reach me</h3>
 <span>
-  <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </span>
 
 <h3>📊 My GitHub Stats</h3>
