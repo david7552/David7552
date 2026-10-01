@@ -61,7 +61,6 @@ Aplicación con backend en FastAPI e interfaz maquetada en React.
 
 - Técnico en Análisis y Desarrollo de Software
 - Tecnólogo en Análisis y Desarrollo de Software (en curso)
-- Bachiller — Colegio Dulce María
 
 ## 📫 Contacto
 
