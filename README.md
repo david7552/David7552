@@ -73,7 +73,7 @@ Aplicación con backend en FastAPI e interfaz maquetada en React.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=david7552&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david7552&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david7552&layout=compact&theme=radical&cache_seconds=0" />
 </p>
 
 <p align="center">
