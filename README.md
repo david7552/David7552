@@ -8,7 +8,7 @@
 
 ### ⚡ Sobre mí
 
-Soy estudiante de Análisis y Desarrollo de Software, actualmente cursando el Tecnólogo (ya con el Técnico finalizado). La mayor parte de lo que sé lo aprendí de forma autónoma, lo que me dio una buena capacidad de investigación, análisis y resolución de problemas. Me considero una persona creativa y proactiva, con facilidad para trabajar en equipo y aportar ideas que construyan soluciones útiles.
+Soy estudiante de Análisis y Desarrollo de Software, actualmente cursando el Tecnólogo. La mayor parte de lo que sé lo aprendí de forma autónoma, lo que me dio una buena capacidad de investigación, análisis y resolución de problemas. Me considero una persona creativa y proactiva, con facilidad para trabajar en equipo y aportar ideas que construyan soluciones útiles.
 
 - 🌱 Actualmente aprendiendo: **React**
 - ✔️ Preguntame lo que sea, con gusto ayudo
