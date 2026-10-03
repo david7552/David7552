@@ -72,12 +72,10 @@ Aplicación con backend en FastAPI e interfaz maquetada en React.
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=david7552&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david7552&layout=compact&theme=radical&cache_seconds=0" />
+  <img src="https://streak-stats.demolab.com/?user=david7552&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david7552&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=david7552&show_icons=true&theme=radical" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=david7552&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
 </p>
-
-![Profile views](https://komarev.com/ghpvc/?username=david7552&color=blue)
